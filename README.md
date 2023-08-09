@@ -4,7 +4,7 @@
 
 <div align="center">
 
-CS Undergraduate | Android Developer | UI & UX Designer
+IT Undergraduate | Android Developer | UI & UX Designer
 
 </div>
 <div align="center">
