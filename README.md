@@ -11,7 +11,7 @@ CS Undergraduate | Android Developer | UI & UX Designer
 
 Looking to collaborate on **Open Source Projects**
   
-Ask me anything **<a href="https://github.com/AbhashK1/Payalkk1097/issues/new"><b>here</b></a>**
+Ask me anything **<a href="https://github.com/Payalkk1097/Payalkk1097/issues/new"><b>here</b></a>**
 
 Reach me at my **<a href="mailto:payalkk1097@gmail.com"><b>email</b></a>**
 
